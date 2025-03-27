@@ -13,3 +13,5 @@ _El archivo .gitignore se usa en Git para especificar qué archivos y carpetas d
 ## ¿Como ignorar el archivo ignorado.txt?
 
 _Se debe agregar en el archivo gitignore la extencion "*.txt" lo que permite ignorar todos los archivos con esa extension_
+
+_3)g-Los apartados 2 y 3 tienen la misma respuesta porque el puntero almacena la direccion de memoria de la variable, mientras que el apartado 4 muestra la direccion de memoria del puntero._  
